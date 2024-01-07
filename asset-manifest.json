@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/At-The-Blocks-Project/static/css/main.ecd56847.css",
+    "main.js": "/At-The-Blocks-Project/static/js/main.0d4abd12.js",
+    "static/media/img1.png": "/At-The-Blocks-Project/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/At-The-Blocks-Project/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/At-The-Blocks-Project/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/At-The-Blocks-Project/index.html",
+    "main.ecd56847.css.map": "/At-The-Blocks-Project/static/css/main.ecd56847.css.map",
+    "main.0d4abd12.js.map": "/At-The-Blocks-Project/static/js/main.0d4abd12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd56847.css",
+    "static/js/main.0d4abd12.js"
+  ]
+}
